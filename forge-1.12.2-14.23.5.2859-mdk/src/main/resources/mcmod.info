@@ -1,0 +1,16 @@
+[
+{
+  "modid": "arrowmod",
+  "name": "Arrow Mod",
+  "description": "Arrow placeholder Mode.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://media.discordapp.net/attachments/284832267728322566/946060166955155466/thedoginmyhands.gif",
+  "updateUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "authorList": ["Jean Kulky"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "https://minecraft.novaskin.me/skin/4405434379/Stand-Arrow",
+  "screenshots": [],
+  "dependencies": []
+}
+]
